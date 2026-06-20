@@ -23,7 +23,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
        </div>
 
         <div class="flex h-14 w-14 items-center justify-center rounded-sm bg-[#13132a] overflow-hidden border border-border">
-            <img :src=`"/images/services/${image}"` :alt="name" class="h-10 w-10 object-contain" />
+            <img :src="`/images/services/${image}`" :alt="name" class="h-10 w-10 object-contain" />
         </div>
 
         <div class="flex flex-col gap-1 flex-1">
