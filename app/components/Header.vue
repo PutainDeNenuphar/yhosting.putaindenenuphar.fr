@@ -20,7 +20,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
         <div class="mx-auto max-w-6xl px-6 py-5 flex items-center justify-between gap-6">
             <div class="flex items-center gap-3">
                 <div class="flex h-10 w-10 items-center justify-center rounded-sm bg-[#13132a] border border-border overflow-hidden">
-                    <img src="/logo.png" alt="Logo de Yuganix Hosting" class="h-6 w-6 object-contain" />
+                    <img src="/images/logo.png" alt="Logo de Yuganix Hosting" class="h-6 w-6 object-contain" />
                 </div>
                 <div class="flex flex-col leading-none">
                     <span class="font-mono text-sm font-bold tracking-tight text-foreground">Yuganix Hosting</span>
